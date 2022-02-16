@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEdntr6yHdp/WEAaowQes+06yXVqzX4ZLhJY/Bi/UAkuoqR115nLbZUobzvDyRdkVWU/tmqKh5y1/Fa4blToxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tobia\\source\\repos\\TA2\\TA2\\TA2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tobia\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
